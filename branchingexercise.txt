@@ -1,0 +1,8 @@
+1 git checkout -b
+2 
+3 git checkout
+4 git branch -d 
+git branch -D // capital D acts as confirmation
+5 merge conflicts are caused when there are multiple commits to the same file
+
+
