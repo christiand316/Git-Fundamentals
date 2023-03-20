@@ -1,5 +1,6 @@
 1 git checkout -b
-2 
+2 recursive merging is the default merge stratedy allows for conflict resolution. fast forward merges are used when no changes were made to the
+main branch while working on said branch.
 3 git checkout
 4 git branch -d 
 git branch -D // capital D acts as confirmation
